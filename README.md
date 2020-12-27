@@ -1,0 +1,2 @@
+# maximum-bandwidth-problem
+Suppose you are given a diagram of a telephone network in the form of a weighted digraph G. The vertexes of the graph represent swit hing  enters, and the edges represent  om- muni ation lines between  enters. The weight on an edge represents the bandwidth of the  ommuni ation line. The bandwidth of a path is the bandwidth of its lowest bandwidth edge. Give an algorithm that, given a diagram and two swit hing  enters a and b, will output the maximum bandwidth of a path between a and b.
